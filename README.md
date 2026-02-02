@@ -23,3 +23,4 @@
 ## Projects
 - **[local-ai](https://github.com/Wiispi/local-ai)**: A GUI with a local server for running AI models.
 - **[tools](https://github.com/Wiispi/tools-dot)**: A tools webstie, featuring a secure password generator and a QR code generator.
+- **[wordle-clone](https://github.com/Wiispi/wordle-clone)**: A clone of a popular word guessing game Wordle
